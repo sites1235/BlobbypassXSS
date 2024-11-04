@@ -3,7 +3,7 @@ Step 1: Copy this code:
 ```
 <a href="https://sites1235.github.io/BlobbypassXSS">Blobbypass</a>
 ```
-
+        Open SparkVue (obviously)
         Step 2: Click the 3 lines on the top left
         Step 3: Click Shared Session
         Step 4: Click on the 2nd Start a shared session button
